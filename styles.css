@@ -1,0 +1,35 @@
+body{
+  background-color: #F4FCD9;
+  margin: 30px;
+}
+hr{
+  background-color: #F4FCD9;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+h1{
+  color: #BB9981;
+}
+h2{
+  color:#BB9981;
+}
+h3{
+  color:#BB9981;
+}
+h4{
+  color:#BB9981;
+}
+img:hover{
+  background-color: #BB9981;
+}
+/***********************Id selectors******************/
+#heading{
+  color:#EE8572;
+}
+/*******************class selectors***********************/
+.h3myskill{
+  color: #BB9981;
+}
